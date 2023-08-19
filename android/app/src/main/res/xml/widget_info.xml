@@ -1,0 +1,10 @@
+<appwidget-provider xmlns:android="http://schemas.android.com/apk/res/android"
+    android:initialLayout="@layout/widget_layout"
+    android:minWidth="110dp"
+    android:minHeight="110dp"
+    android:minResizeWidth="110dp"
+    android:minResizeHeight="110dp"
+    android:updatePeriodMillis="900000"
+    android:resizeMode="horizontal|vertical"
+    android:widgetCategory="home_screen" />
+<!-- 格数计算 = 70xN-30  -->
